@@ -1,5 +1,6 @@
 package ufsc.br.poo.seguros;
 
+//testando git
 
 public class Teste {
 
